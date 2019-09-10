@@ -6,4 +6,4 @@ yarn install
 yarn bootstarp
 yarn build
 
-cp -r -f ./packages/antd-plus-site/public  ./
+cp -r -f ./packages/sensoro-ui-site/public  ./

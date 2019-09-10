@@ -16,7 +16,7 @@
     "experimentalDecorators": true,
     "paths": {
       "@alitajs/antd-plus/*": ["./antd-plus/src/*"],
-      "@site/*": ["./antd-plus-site/src/*"]
+      "@site/*": ["./sensoro-ui-site/src/*"]
     }
   },
   "exclude": [
