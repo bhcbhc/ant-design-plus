@@ -1,7 +1,6 @@
 import React from 'react';
 import { Button } from 'antd';
 import { Link } from 'gatsby';
-import GitHubButton from 'react-github-button';
 import styles from './home.module.less';
 
 const Home: React.FC = () => {
@@ -11,8 +10,8 @@ const Home: React.FC = () => {
         <div key="line" className={styles.titleLineWrapper}>
           <div className={styles.titleLine} style={{ transform: 'translateX(-64px)' }} />
         </div>
-        <h1 key="h1">ANT DESIGN PlUS</h1>
-        <p>提炼于真实场景的业务组件</p>
+        <h1 key="h1">SENSORO UI</h1>
+        <p>升哲科技前端组件库</p>
         <div className={styles.buttonWrapper}>
           <Link to="/docs/getting-started">
             <Button type="primary">
@@ -24,12 +23,6 @@ const Home: React.FC = () => {
               组件
             </Button>
           </Link>
-          <GitHubButton
-            key="github-button"
-            type="stargazers"
-            namespace="alitajs"
-            repo="ant-design-plus"
-          />
         </div>
       </div>
     </div>

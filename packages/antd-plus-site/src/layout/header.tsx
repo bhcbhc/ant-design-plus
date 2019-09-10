@@ -65,7 +65,7 @@ const HeaderView: React.FC<IProps> = (props) => {
       <div className={styles.logo}>
         <Link to="/">
           <img src={LOGO_URL} alt="logo" />
-          <span>Ant Design Plus</span>
+          <span>Sensoro UI</span>
         </Link>
       </div>
 
