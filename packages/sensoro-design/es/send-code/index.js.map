@@ -1,0 +1,1 @@
+{"version":3,"sources":["send-code/index.jsx"],"names":["SendCode"],"mappings":"AAAA,OAAOA,QAAP,MAAqB,aAArB;AACA,eAAeA,QAAf","sourcesContent":["import SendCode from './send-code';\nexport default SendCode;\n"],"file":"index.js"}

@@ -13,17 +13,17 @@ time: 2019-07-19
 
 ```
 // yarn
-yarn add @alitajs/antd-plus
+yarn add @sensoro/sensoro-design
 
 // npm
-npm install -D @alitajs/antd-plus
+npm install -D @sensoro/sensoro-design
 ```
 
 ## 使用
 
 ```
 import React form 'react';
-import { SendCode } form '@alitajs/antd-plus';
+import { SendCode } form '@sensoro/sensoro-design';
 
 class Example extends React.Component {
   render() {

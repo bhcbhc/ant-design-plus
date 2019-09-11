@@ -1,12 +1,13 @@
 {
-  "name": "@alitajs/antd-plus",
-  "version": "1.0.5",
-  "description": "ant design plus",
+  "name": "@sensoro/sensoro-design",
+  "version": "1.0.1",
+  "description": "sensoro design",
   "main": "lib/index.js",
   "module": "es/index.js",
   "typings": "es/index.d.ts",
   "keywords": [
     "ant-design",
+    "sensoro",
     "components",
     "react"
   ],

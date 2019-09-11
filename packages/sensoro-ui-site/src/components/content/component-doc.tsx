@@ -55,7 +55,7 @@ class ComponentDoc extends React.Component<IProps, IState> {
               <span className="token keyword">import </span>
               {`{ ${title['zh-CN']} }`}
               <span className="token keyword"> from </span>
-              <span className="token string">{`'@alitajs/antd-plus'`}</span>
+              <span className="token string">{`'@sensoro/sensoro-design'`}</span>
               <span className="token punctuation">;</span>
             </code>
           </pre>

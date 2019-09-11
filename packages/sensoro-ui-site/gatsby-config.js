@@ -5,7 +5,7 @@ module.exports = {
     title: `Ant Design Plus`,
     description: `react components`,
     author: `Alita Team`,
-    siteUrl: `https://antd-plus.alitajs.com`
+    siteUrl: `https://sensoro-design.alitajs.com`
   },
   plugins: [
     {
@@ -40,7 +40,7 @@ module.exports = {
       resolve: 'gatsby-source-filesystem',
       options: {
         name: '/components',
-        path: path.join(__dirname, '..', 'antd-plus/src')
+        path: path.join(__dirname, '..', 'sensoro-design/src')
       }
     },
     {
@@ -68,7 +68,7 @@ module.exports = {
         background_color: `#f7f7f7`,
         theme_color: `#1890ff`,
         display: `standalone`,
-        icon: `src/images/favicon.png`
+        icon: `src/images/favicon.ico`
       }
     },
     `gatsby-plugin-sitemap`

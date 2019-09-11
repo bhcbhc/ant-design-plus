@@ -1,6 +1,6 @@
 import React from 'react';
 // @ts-ignore
-import { FitText, SendCode, FullScreen } from '@alitajs/antd-plus';
+import { FitText, SendCode, FullScreen } from '@sensoro/sensoro-design';
 import { Button } from 'antd';
 import { LiveProvider, LiveError, LivePreview } from 'react-live';
 

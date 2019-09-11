@@ -5,8 +5,8 @@
 基于 ant-design 封装的偏业务组件集合
 
 [![Alita](https://img.shields.io/badge/alitajs-ant%20design%20plus-blue.svg)](https://github.com/alitajs/ant-design-plus)
-[![NPM version](https://img.shields.io/npm/v/@alitajs/antd-plus.svg?style=flat)](https://npmjs.org/package/@alitajs/antd-plus)
-[![NPM downloads](http://img.shields.io/npm/dm/@alitajs/antd-plus.svg?style=flat)](https://npmjs.org/package/@alitajs/antd-plus)
+[![NPM version](https://img.shields.io/npm/v/@sensoro/sensoro-design.svg?style=flat)](https://npmjs.org/package/@sensoro/sensoro-design)
+[![NPM downloads](http://img.shields.io/npm/dm/@sensoro/sensoro-design.svg?style=flat)](https://npmjs.org/package/@sensoro/sensoro-design)
 [![Build Status](https://travis-ci.com/alitajs/ant-design-plus.svg?branch=master)](https://travis-ci.com/alitajs/ant-design-plus)
 </div>
 
@@ -21,10 +21,10 @@
 
 ```
 // npm
-npm install @alitajs/antd-plus --save
+npm install @sensoro/sensoro-design --save
 
 // yarn
-yarn add @alitajs/antd-plus
+yarn add @sensoro/sensoro-design
 ```
 
 ## ⌨️ 本地开发

@@ -1,0 +1,1 @@
+{"version":3,"sources":["fit-text/index.js"],"names":["FitText"],"mappings":";;;;;;;AAAA;;;;eACeA,mB","sourcesContent":["import FitText from './fit-text';\nexport default FitText;\n"],"file":"index.js"}

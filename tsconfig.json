@@ -15,7 +15,7 @@
     "suppressImplicitAnyIndexErrors": true,
     "experimentalDecorators": true,
     "paths": {
-      "@alitajs/antd-plus/*": ["./antd-plus/src/*"],
+      "@sensoro/sensoro-design/*": ["./sensoro-design/src/*"],
       "@site/*": ["./sensoro-ui-site/src/*"]
     }
   },

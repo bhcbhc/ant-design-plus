@@ -1,0 +1,1 @@
+{"version":3,"sources":["full-screen/index.jsx"],"names":["FullScreen"],"mappings":";;;;;;;AAAA;;;;eACeA,sB","sourcesContent":["import FullScreen from './full-screen';\nexport default FullScreen;\n"],"file":"index.js"}
