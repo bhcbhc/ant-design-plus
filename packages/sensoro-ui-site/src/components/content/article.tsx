@@ -30,14 +30,9 @@ class Article extends React.PureComponent<IArticleProps> {
           <span className={styles.subtitle}>
             {subtitle}
           </span>
-          <EditButton
-            title="在 Github 上编辑此页！"
-            filename={path}
-          />
         </h1>
 
         <div className={styles.modifiedTime}>
-          <AvatarList list={avatarList} />
           上次修改时间: {moment(modifiedTime).format('YYYY-MM-DD HH:mm:SS')}
         </div>
 

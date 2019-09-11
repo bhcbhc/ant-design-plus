@@ -44,10 +44,6 @@ class ComponentDoc extends React.Component<IProps, IState> {
             <span className={styles.subtitle}>
             {subtitle}
           </span>
-            <EditButton
-              title="在 Github 上编辑此页！"
-              filename={path}
-            />
           </h1>
           <section
             className="markdown api-container"
